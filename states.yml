@@ -1,0 +1,7 @@
+# Schweiz/Suisse/Svizzera/Sviza
+# https://fr.wikipedia.org/wiki/Canton_suisse
+- name: VAUD
+  country_id: '??'
+  id: '101'
+  abbr: VD
+

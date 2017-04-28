@@ -1,0 +1,1 @@
+YAML and CSV seed data for Swiss states and postcodes
